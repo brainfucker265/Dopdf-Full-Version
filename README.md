@@ -238,4 +238,4 @@ This repository serves as the official landing page for doPDF. The software is d
 **Get the most recent version of doPDF today!**
 
 ---
-**Last updated:** 2026-09-09 14:17:26 UTC
+**Last updated:** 2026-09-09 18:24:49 UTC
